@@ -1,0 +1,15 @@
+{
+  "name": "script-extract-github",
+  "version": "1.0.0",
+  "description": "Script permettant de récupérer les équipes et leurs membres depuis Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "objects-to-csv": "^1.3.6"
+  }
+}
